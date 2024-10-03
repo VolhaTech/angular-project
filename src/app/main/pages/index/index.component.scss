@@ -1,0 +1,16 @@
+.tpl__app-toolbar {
+
+  &__left {
+    display: inline-block;
+  }
+
+  &__right {
+    display: inline-block;
+  }
+
+  &__middle {
+    display: inline-block;
+    flex: 1 1;
+    text-align: center;
+  }
+}
